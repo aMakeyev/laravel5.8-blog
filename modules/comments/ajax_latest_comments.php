@@ -18,6 +18,7 @@ $res = $pdo->query("
 SELECT * FROM users WHERE id = 38
 ");
 $row = $res->fetch(PDO::FETCH_ASSOC);
+wtf($row);
 //$pdo->beginTransaction();
 /*$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 try{
@@ -57,7 +58,7 @@ function foo($login, $email){
 }
 $row= $res->fetchAll(PDO::FETCH_FUNC, 'foo');*/
 //$input = file_get_contents("php://input");
-wtf($row);
+
 /*$pdo = new PDO('mysql:dbname=main;host=localhost', 'root', 'root');
 $res = $pdo->query("
 	SELECT COUNT(*) as `cnt`
