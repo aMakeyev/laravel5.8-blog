@@ -1,0 +1,2196 @@
+SELECcT * FROM `users` ORDER BY `id`
+
+Запрос: SELECcT * FROM `users` ORDER BY `id`
+
+Запрос: SELECcT * FROM `users` ORDER BY `id`
+
+Запрос: SELECcT * FROM `users` ORDER BY `id`
+
+Запрос: SELECcT * FROM `users` ORDER BY `id`
+
+2018-09-24 15:04:52 Запрос: SELECcT * FROM `users` ORDER BY `id`
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECcT * FROM `users` ORDER BY `id`' at line 1
+
+2018-09-24 15:09:31 Запрос: SELECcT * FROM `users` ORDER BY `id`
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECcT * FROM `users` ORDER BY `id`' at line 1Array
+
+2018-09-24 15:31:52 Запрос: SELECcT * FROM `users` ORDER BY `id`
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/registration.php
+На строке: 19
+
+2018-09-24 15:32:08 Запрос: SELECcT * FROM `users` ORDER BY `id`
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/registration.php
+На строке: 19
+
+2018-09-24 15:33:50 Запрос: SELECcT * FROM `users` ORDER BY `id`
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/registration.php
+На строке: 19
+
+2018-09-24 15:58:35 Запрос: SELECcT * FROM `users` ORDER BY `id`
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/registration.php
+На строке: 19
+
+2018-09-24 20:35:51 Запрос: SELECсT * FROM `users` ORDER BY `id`
+В файле: Array
+На строке: 19
+
+2018-09-24 20:50:41 Запрос: SELECсT * FROM `users` ORDER BY `id`
+В файле: Array
+На строке: 19
+
+2018-09-30 19:45:08 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbQvj3xEXfbGk'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:45:57 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbQvj3xEXfbGk'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:46:02 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbQvj3xEXfbGk'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:46:10 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbViPeKwpfg8c'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:46:17 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbkneL9nFs3NA'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:46:53 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'alex'
+			   AND `password` = 'cbNc8pX/C92nY'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-09-30 19:48:15 Запрос: 
+			SELECT * 
+			FROM `users` 
+			WHERE `login`= 'Alex'
+			   AND `password` = 'cbs9TUWLBxGaw'
+			   AND `active` = 1
+			LIMIT 1   	
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/cab/auth.php
+На строке: 20
+
+2018-10-04 21:48:18 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 19
+
+2018-10-04 21:48:42 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 19
+
+2018-10-08 21:33:40 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:33:46 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:33:50 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:33:52 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:07 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:15 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:27 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:29 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:33 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:57 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:34:59 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:35:07 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:35:09 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:35:46 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:35:47 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:36:25 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:37:42 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:37:46 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:38:17 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:38:19 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:38:44 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:38:55 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:39:34 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:39:38 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:39:39 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:39:43 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:40:47 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:41:09 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:41:33 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-08 21:55:07 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:30:59 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:34:15 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:34:19 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:34:20 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:34:21 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:35:15 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:35:16 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:35:18 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-12 18:35:24 Запрос: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = '32',
+		AND `hash` = 'cbtTfrbAUDRAgcbhzLel/wpZ4scbTwyVvtTgKys'
+		LIMIT 1
+	
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/allpages.php
+На строке: 20
+
+2018-10-28 11:32:04 Запрос: 
+	SELECT *
+	FROM `users`
+	WHERE `login` LIKE '%'lex'%'
+	ORDER BY `id` DESC 
+
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/main.php
+На строке: 21
+
+2018-10-30 09:50:44 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex',
+		`password`  = 'cbQkscXavrW2M',
+		`email`     = 'zzzzz@zzzz.ru',
+		`age` 		= 34,
+		`active` 	= 1,
+		`access` 	= 5,
+		WHERE `id` = 38
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 21
+
+2018-11-02 10:41:53 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = ''
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+2018-11-02 10:56:50 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = ''
+
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+2018-11-02 10:57:32 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = ''
+
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+2018-11-02 10:59:23 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = '/uploaded/20181102-105923img59261.jpg'
+
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+2018-11-02 11:01:39 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = '/uploaded/20181102-110139img76142.jpg'
+
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+2018-11-02 11:02:00 Запрос: 
+		UPDATE `users` SET 
+		`login` 	= 'alex1',
+		`email`     = 'fgffkg@mail.ru',
+		`age` 		= 0,
+		`active` 	= 1,
+						`img`		  = ''
+
+		`access` 	= 5
+		WHERE `id` = 42
+		
+В файле: /Applications/MAMP/htdocs/TeaShop/modules/admin/users/edit.php
+На строке: 27
+
+QUERY: 
+				INSERT INTO `news` SET 
+				`img`		  = '/uploaded/20181104-143802img14098.jpg'
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/news/add.php
+line: 80
+date: 2018-11-04 14:38:02
+===================================
+
+QUERY: 
+				INSERT INTO `news` SET 
+				`img`		  = '/uploaded/20181104-184400img67721.jpg'
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/news/add.php
+line: 80
+date: 2018-11-04 18:44:00
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181104-193733img49211.jpg',
+				`date` 		  = NOW()
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 90
+date: 2018-11-04 19:37:33
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_name` = 'Мёд'
+
+Unknown column 'cat_name' in 'where clause'
+file: /Applications/MAMP/htdocs/TeaShop/modules/goods/main.php
+line: 15
+date: 2018-11-05 08:48:04
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `news`
+	ORDER BY `id` DESC 
+	LIMIT -5, 5
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 33
+date: 2018-11-06 09:37:00
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `news`
+	ORDER BY `id` DESC 
+	LIMIT -5, 5
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 33
+date: 2018-11-06 09:39:16
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `news`
+	ORDER BY `id` DESC 
+	LIMIT -3, 3
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 49
+date: 2018-11-06 13:24:59
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `news`
+	ORDER BY `id` DESC 
+	LIMIT -3, 3
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 49
+date: 2018-11-06 13:25:16
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `news`
+	ORDER BY `id` DESC 
+	LIMIT -3, 3
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 49
+date: 2018-11-06 13:25:20
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods`
+	WHERE `cat` = ''
+
+Unknown column 'cat' in 'where clause'
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 6
+date: 2018-11-11 14:55:48
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_id` IN (
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+1,
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+2)
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+Notice:  Use of undefined constant id - assumed 'id' in /Appli' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 11
+date: 2018-11-11 15:23:28
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_id` IN (
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+1,
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+2)
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+Notice:  Use of undefined constant id - assumed 'id' in /Appli' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 10
+date: 2018-11-11 15:25:10
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_id` IN (
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+2)
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+Notice:  Use of undefined constant id - assumed 'id' in /Appli' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 10
+date: 2018-11-11 19:32:03
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_id` IN (
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+1,
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+2)
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+Notice:  Use of undefined constant id - assumed 'id' in /Appli' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 10
+date: 2018-11-11 19:33:09
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods2goods_cat`
+	WHERE `cat_id` IN (
+Notice:  Use of undefined constant id - assumed 'id' in /Applications/MAMP/htdocs/TeaShop/skins/admin/goods/main.tpl on line 10
+2)
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+Notice:  Use of undefined constant id - assumed 'id' in /Appli' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 10
+date: 2018-11-11 19:33:40
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods`
+	WHERE `id` IN ()
+	ORDER BY `id` 
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+	ORDER BY `id`' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 21
+date: 2018-11-11 19:37:03
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods`
+	WHERE `cat` = 'Сотовый мёд'
+
+Unknown column 'cat' in 'where clause'
+file: /Applications/MAMP/htdocs/TeaShop/modules/goods/main.php
+line: 9
+date: 2018-11-11 19:39:37
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods`
+	WHERE `id` IN ()
+	ORDER BY `id` 
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+	ORDER BY `id`' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 21
+date: 2018-11-11 19:40:48
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104137img78596.png',
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:41:38
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104221img95144.png',
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:42:21
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104253img29091.png',
+				WHERE `id` = 0
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 0' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:42:53
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104439img54190.png',
+				WHERE `id` = 28
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 28' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:44:39
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104700img52089.png',
+				WHERE `id` = 29
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 29' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:47:00
+===================================
+
+QUERY: 
+				INSERT INTO `goods` SET 
+				`img`		  = '/uploaded/20181112-104901img17935.png'
+				WHERE `id` = 30
+			
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 30' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/add.php
+line: 103
+date: 2018-11-12 10:49:01
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `goods`
+		WHERE `id` IN ()
+		ORDER BY `id` 
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+		ORDER BY `id`' at line 3
+file: /Applications/MAMP/htdocs/TeaShop/modules/admin/goods/main.php
+line: 26
+date: 2018-11-13 14:17:58
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `pages`
+		WHERE `module` = '404'
+		LIMIT 1
+	
+Unknown column 'module' in 'where clause'
+file: /Applications/MAMP/htdocs/TeaShop/variables.php
+line: 36
+date: 2018-11-19 09:20:16
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:17:38
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:21:22
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:25:00
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:30:42
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-28 12:35:06
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-28 12:37:34
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-28 12:38:21
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-28 12:38:25
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-28 12:38:26
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:39:00
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 12:40:33
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:17:11
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:17:43
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:20:44
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:21:08
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:21:27
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:26:20
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 13:26:53
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3 , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3 , 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 14:06:46
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 4
+file: /Applications/MAMP/htdocs/TeaShop/modules/news/main.php
+line: 83
+date: 2018-11-28 16:13:26
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT -3, 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-3, 3' at line 5
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-29 12:07:57
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Экономика'
+		ORDER BY `id` DESC 
+		LIMIT , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 3' at line 5
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 70
+date: 2018-11-30 09:53:41
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 300,
+			`avail` 	  = 'Есть',
+			`description` = 'даложфдлоаждал',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Incorrect integer value: '' for column 'warr' at row 1
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:04:29
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 500,
+			`avail` 	  = 'Есть',
+			`description` = 'лаьтвдлатфюд',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Incorrect integer value: '' for column 'warr' at row 1
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:05:52
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 500,
+			`avail` 	  = 'Есть',
+			`description` = 'лаьтвдлатфюд',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Incorrect integer value: '' for column 'warr' at row 1
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:08:24
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `pages`
+		WHERE `module` = 'goods'
+		LIMIT 1
+	
+Unknown column 'module' in 'where clause'
+file: /Users/user/Sites/TeaShop/variables.php
+line: 36
+date: 2018-11-30 16:21:14
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `pages`
+		WHERE `module` = 'news'
+		LIMIT 1
+	
+Unknown column 'module' in 'where clause'
+file: /Users/user/Sites/TeaShop/variables.php
+line: 36
+date: 2018-11-30 16:27:16
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 600,
+			`avail` 	  = 'Есть',
+			`description` = 'rlkerjlekrq',
+			`deliv` 	  = '',
+			`date` 		  = NOW() 
+		
+Field 'warr' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 39
+date: 2018-11-30 16:29:35
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 600,
+			`avail` 	  = 'Есть',
+			`description` = 'rlkerjlekrq',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Incorrect integer value: '' for column 'warr' at row 1
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:31:07
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 600,
+			`avail` 	  = 'Есть',
+			`description` = 'rlkerjlekrq',
+			`deliv` 	  = '',
+			`warr` 	      = '1',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:31:28
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 600,
+			`avail` 	  = 'Есть',
+			`description` = 'rlkerjlekrq',
+			`deliv` 	  = '',
+			`warr` 	      = '1',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:31:48
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 600,
+			`avail` 	  = 'Есть',
+			`description` = 'rlkerjlekrq',
+			`deliv` 	  = '',
+			`warr` 	      = '1',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:36:10
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 300,
+			`avail` 	  = 'Есть',
+			`description` = 'lfk;eK',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Incorrect integer value: '' for column 'warr' at row 1
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:43:07
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 300,
+			`avail` 	  = 'Есть',
+			`description` = 'lfk;eK',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:44:00
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 900,
+			`avail` 	  = 'Есть',
+			`description` = 'KDM/KCM',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:44:19
+===================================
+
+QUERY: 
+			INSERT INTO `goods` SET 
+			`title` 	  = 'Мёд',
+			`price` 	  = 900,
+			`avail` 	  = 'Есть',
+			`description` = 'KDM/KCM',
+			`deliv` 	  = '',
+			`warr` 	      = '',
+			`date` 		  = NOW() 
+		
+Field 'img' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/goods/add.php
+line: 40
+date: 2018-11-30 16:45:42
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-08 21:50:23
+===================================
+
+QUERY: 
+			INSERT INTO `news` SET 
+			`cat` 		  = 'Экономика',
+			`title` 	  = 'Сбор меда',
+			`text` 	  	  = 'длвтуджлокжйц йлу',
+			`description` = 'ллоадлфождл жвоажфо',
+			`img`		  = '20181212-231130img91241.png',
+			`date` 		  = NOW() 
+		
+Field 'meta_title' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/news/add.php
+line: 44
+date: 2018-12-12 23:11:30
+===================================
+
+QUERY: 
+			INSERT INTO `news` SET 
+			`cat` 		  = 'Экономика',
+			`title` 	  = 'Сбор меда',
+			`text` 	  	  = 'длвтуджлокжйц йлу',
+			`description` = 'ллоадлфождл жвоажфо',
+			`img`		  = '20181212-231713img58021.png',
+			`date` 		  = NOW() 
+		
+Field 'meta_title' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/news/add.php
+line: 44
+date: 2018-12-12 23:17:13
+===================================
+
+QUERY: 
+			INSERT INTO `news` SET 
+			`cat` 		  = 'Экономика',
+			`title` 	  = 'Сотовый мёд',
+			`text` 	  	  = 'kwej;qwlkjf',
+			`description` = 'kjf;alkdj',
+			`img`		  = '20181212-231828img19903.png',
+			`date` 		  = NOW() 
+		
+Field 'meta_title' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/admin/news/add.php
+line: 44
+date: 2018-12-12 23:18:28
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Экономика'
+		ORDER BY `id` DESC 
+		LIMIT , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 3' at line 5
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 68
+date: 2018-12-13 00:17:07
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `news`
+		WHERE `cat` = 'Культура'
+		ORDER BY `id` DESC 
+		LIMIT , 3
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 3' at line 5
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 68
+date: 2018-12-13 00:17:26
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-13 23:23:56
+===================================
+
+QUERY: 
+			INSERT INTO `users` SET
+			`login` 	= 'alexey5',
+			`password`  = 'CB3Q/CSYBHA4E',
+			`email`     = 'zzzzz@zzz.ru',
+			`age` 		= 0,
+			`hash`		= 'CBEI22EVJe8aY',
+			`img`		  = '20181213-233324img78118.png'
+		
+Field 'httpuseragent' doesn't have a default value
+file: /Users/user/Sites/TeaShop/modules/cab/registration.php
+line: 64
+date: 2018-12-13 23:35:24
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `goods`
+		WHERE `id` IN ()
+		ORDER BY `id` 
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+		ORDER BY `id`' at line 3
+file: /Users/user/Sites/TeaShop/modules/goods/main.php
+line: 22
+date: 2018-12-14 10:12:41
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:02:43
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:04:12
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:04:14
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:04:15
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:05:27
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:06:32
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:08:44
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:08:47
+===================================
+
+QUERY: SELECT * FROM `сomments` ORDER BY `id`
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 2
+date: 2018-12-14 13:08:49
+===================================
+
+QUERY: 
+	SELECT *
+	FROM `goods_cat`
+	WHERE `id` = IN ()
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN ()' at line 3
+file: /Users/user/Sites/TeaShop/modules/goods/main.php
+line: 54
+date: 2019-01-03 16:32:28
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `goods2goods_cat`
+		WHERE `cat_id` IN (Array)
+	
+Unknown column 'Array' in 'where clause'
+file: /Users/user/Sites/TeaShop/modules/goods/main.php
+line: 25
+date: 2019-01-03 23:43:11
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:12
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:17
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:17
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:20
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:21
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:22
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:22
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:23
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:23
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:26
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:27
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:32
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:32
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:33
+===================================
+
+QUERY: 
+		SELECT *
+		FROM `users`
+		WHERE `id` = 
+		LIMIT 1
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 4
+file: /Users/user/Sites/TeaShop/modules/allpages.php
+line: 6
+date: 2019-01-14 17:10:33
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'zzzzz@zzz.ru',
+			`comment` = 'jhfdkjhlaj'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:05:21
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'khrkjehrkqjhe'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:05:51
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'khrkjehrkqjhe'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:06:17
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'ijeirelhlu'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:07:13
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'elrerlk'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:10:57
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'elrerlk'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:11:07
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'jrejr;'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:11:47
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'jrejr;'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:11:57
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 're.wqq'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:14:36
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'jhfdjkhlajhs'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 32
+date: 2019-02-04 13:39:21
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:55:10
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:55:25
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:55:32
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:56:14
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:56:33
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'name',
+			`email` = 'email',
+			`comment` = 'comment'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 31
+date: 2019-02-04 13:57:46
+===================================
+
+QUERY: 
+			INSERT INTO `сomments` SET
+			`name` = 'admin',
+			`email` = 'makeeb@list.ru',
+			`comment` = 'kjjdakjs'
+  		
+Table 'main.сomments' doesn't exist
+file: /Users/user/Sites/TeaShop/modules/comments/main.php
+line: 23
+date: 2019-02-04 13:59:02
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `news`
+   WHERE `date` > NOW() - INTERVAL 1 MINUTE // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:46:23
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `news`
+   WHERE `date` > NOW() - INTERVAL 1 MINUTE // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:46:26
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:55:35
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:56:59
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:59:13
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 15:59:19
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 16:00:08
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 16:00:21
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 16:00:36
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `date` > NOW() - INTERVAL 1 SECOND // -  из БД новость за последнюю минуту.
+(также м.использовать BEETWEEN - для между такой и такой меткой) 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/ -  из БД новость за последнюю минуту.
+(также ' at line 3
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-04 16:01:50
+===================================
+
+QUERY: 
+   SELECT *
+   FROM `comments`
+   WHERE `id` = 15
+//   WHERE `date` < NOW() - INTERVAL 20 SECOND
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/   WHERE `date` < NOW() - INTERVAL 20 SECOND' at line 4
+file: /Users/user/Sites/TeaShop/modules/comments/ajax_comments.php
+line: 33
+date: 2019-02-13 11:58:19
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as 'cnt'
+		FROM `news`
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as 'cnt'
+		FROM `news`' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:52:22
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as cnt
+		FROM `news`
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as cnt
+		FROM `news`' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:52:50
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as cnt
+		FROM news
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as cnt
+		FROM news' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:53:15
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as `cnt`
+		FROM `news`
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as `cnt`
+		FROM `news`' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:54:04
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as `cnt`
+		FROM `news`
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as `cnt`
+		FROM `news`' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:54:35
+===================================
+
+QUERY: 
+		SELECT COUNT (*) as `cnt`
+		FROM `news`
+	
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as `cnt`
+		FROM `news`' at line 1
+file: /Users/user/Sites/TeaShop/modules/news/main.php
+line: 80
+date: 2019-02-20 19:54:38
+===================================
+
