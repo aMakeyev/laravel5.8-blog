@@ -2,189 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bea1c87a-b727-46ee-bd5a-5b2344004d60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/Agro.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0177429c-1606-4ffe-873c-26fb2a8a4b22.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vagrant.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/28.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/alexxx.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backup.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/commit_test.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dump.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/libs/class_Calc.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/libs/class_Mail.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/libs/class_Paginator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/libs/class_Uploader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/libs/default.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/mysql.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/php.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/main.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/allpages.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/cab/exit.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/cab/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/goods/add.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/goods/edit.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/goods/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/news/add.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/news/ajax_news.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/news/edit.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/news/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/static/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/users/edit.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/admin/users/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/allpages.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/cab/activate.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/cab/auth.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/cab/exit.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/cab/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/cab/registration.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/calc/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/comments/ajax_comments.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/comments/ajax_latest_comments.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/comments/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/errors/404.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/errors/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/filemen/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/game/gameover.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/game/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/goods/_search_pagin_main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/goods/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/goods/more.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/lessons/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/lessons/text.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/news/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/news/more.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/static/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/staticpage/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/modules/table/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mysgl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mysql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mysqldump" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/cab/exit.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/cab/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/css/normalize.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/goods/add.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/goods/edit.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/goods/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/index.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/news/add.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/news/edit.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/news/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/static/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/users/edit.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/admin/users/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/activate.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/admin.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/auth.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/exit.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/cab/registration.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/calc/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/comments/ajax_comments.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/comments/ajax_latest_comments.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/comments/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/css/normalize.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/errors/404.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/errors/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/filemen/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/game/gameover.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/game/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/goods/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/goods/more.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/Facebook-box.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/add-to-cart.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/add-to-cart1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/bg1small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/cart-icon20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/credit-card-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/dash.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/delivery-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/file.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/folder.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main-resize.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/item8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/phone-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/phone-icon1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/place-on-map-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/search-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/search-icon1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/img/sprite.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/index.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/js/javascript_v1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/js/jquery-3.3.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/js/lessons_v1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/lessons/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/news/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/news/more.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/static/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/staticpage/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/table/main.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/skins/default/text.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_ajax.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/text.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181212-225156img33609.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181212-225901img52384.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-000919img41161.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-001059img40232.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-001133img64765.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-235449img49703.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-102220img10376.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-105830img28217.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114143img98507.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114214img39679.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114249img80365.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181212-232055img44771.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181212-232815img40074.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181213-001522img61128.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181214-110057img85988.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-233513img24592.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-233918img93872.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234224img17914.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234345img84286.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234438img72146.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-235603img10839.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-235915img71624.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-000317img24493.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-233324img78118.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-234630img82505.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-234750img43943.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-235042img51587.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-235232img31867.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/variables.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -192,6 +11,23 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -261,7 +97,17 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TeaShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeaShop" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -305,12 +151,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558708716973</updated>
-      <workItem from="1558708718741" duration="36000" />
+      <workItem from="1558708718741" duration="236000" />
     </task>
+    <task id="LOCAL-00001" summary="reload project">
+      <created>1558708825672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558708825672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36000" />
+    <option name="totallyTimeSpent" value="236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="81" width="1289" height="755" extended-state="0" />
@@ -342,9 +196,26 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload project" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
