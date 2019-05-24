@@ -1,10 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02ed5d18-6983-46b9-88da-5cee83104325" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="bea1c87a-b727-46ee-bd5a-5b2344004d60" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/Agro.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0177429c-1606-4ffe-873c-26fb2a8a4b22.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vagrant.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/modules/comments/ajax_latest_comments.php" afterPath="$PROJECT_DIR$/modules/comments/ajax_latest_comments.php" />
+      <change beforePath="$PROJECT_DIR$/28.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/alexxx.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/backup.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/commit_test.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dump.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/class_Calc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/class_Mail.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/class_Paginator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/class_Uploader.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libs/default.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/mysql.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/php.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/allpages.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/cab/exit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/cab/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/goods/add.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/goods/edit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/goods/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/news/add.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/news/ajax_news.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/news/edit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/news/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/static/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/users/edit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/admin/users/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/allpages.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/cab/activate.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/cab/auth.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/cab/exit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/cab/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/cab/registration.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/calc/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/comments/ajax_comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/comments/ajax_latest_comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/comments/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/errors/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/errors/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/filemen/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/game/gameover.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/game/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/goods/_search_pagin_main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/goods/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/goods/more.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/lessons/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/lessons/text.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/news/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/news/more.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/static/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/staticpage/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modules/table/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mysgl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mysql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mysqldump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/cab/exit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/cab/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/css/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/goods/add.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/goods/edit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/goods/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/index.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/news/add.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/news/edit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/news/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/static/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/users/edit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/admin/users/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/activate.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/admin.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/auth.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/exit.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/cab/registration.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/calc/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/comments/ajax_comments.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/comments/ajax_latest_comments.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/comments/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/css/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/errors/404.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/errors/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/filemen/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/game/gameover.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/game/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/goods/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/goods/more.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/Facebook-box.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/add-to-cart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/add-to-cart1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/bg1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/bg1small.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/cart-icon20.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/credit-card-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/dash.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/delivery-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/file.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/folder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main-resize.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/img-main1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/item8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/phone-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/phone-icon1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/place-on-map-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/search-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/search-icon1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/simbol3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/img/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/index.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/js/javascript_v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/js/jquery-3.3.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/js/lessons_v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/lessons/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/news/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/news/more.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/static/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/staticpage/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/table/main.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skins/default/text.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test_ajax.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/text.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181212-225156img33609.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181212-225901img52384.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-000919img41161.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-001059img40232.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-001133img64765.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181213-235449img49703.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-102220img10376.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-105830img28217.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114143img98507.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114214img39679.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/goods_200x200/20181214-114249img80365.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181212-232055img44771.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181212-232815img40074.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181213-001522img61128.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/news_200x200/20181214-110057img85988.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-233513img24592.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-233918img93872.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234224img17914.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234345img84286.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-234438img72146.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-235603img10839.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181212-235915img71624.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-000317img24493.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-233324img78118.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-234630img82505.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-234750img43943.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-235042img51587.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/uploaded/users_45x45/20181213-235232img31867.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/variables.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,167 +193,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="main@127.0.0.1" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="main@127.0.0.1" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="main@127.0.0.1" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="TeaShop" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ajax_latest_comments.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/comments/ajax_latest_comments.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <marker date="1551180456000" expanded="true" signature="70:142" ph="SELECT * FRO... comments" />
-                <marker date="1551180456000" expanded="true" signature="412:445" ph="SELECT * FRO... users" />
-                <marker date="1551180456000" expanded="true" signature="420:426" ph="SELECT * FRO... Customers" />
-                <marker date="1551180456000" expanded="true" signature="420:443" ph="DELETE FROM `Customers`... " />
-                <marker date="1551180456000" expanded="true" signature="659:712" ph="INSERT INTO product... " />
-                <marker date="1551180456000" expanded="true" signature="1251:1281" ph="SELECT email... users" />
-                <marker date="1551180456000" expanded="true" signature="1515:1812" ph="..." />
-                <marker date="1551180456000" expanded="true" signature="1605:1640" ph="SELECT COUNT... news" />
-                <marker date="1551180456000" expanded="true" signature="1730:1772" ph="SELECT * FRO... users" />
-                <marker date="1551180456000" expanded="true" signature="2000:2041" ph="SELECT COUNT... goods" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>foreach($matches as $k1=&gt;$v1) {</find>
-      <find>.lessons-list a</find>
-      <find>module'</find>
-      <find>$cat</find>
-      <find>news</find>
-      <find>fet</find>
-      <find>inner</find>
-      <find>chbox</find>
-      <find>retur</find>
-      <find>route</find>
-      <find>$array</find>
-      <find>$newheight</find>
-      <find>modul</find>
-      <find>modules</find>
-      <find>/module</find>
-      <find>cookie</find>
-      <find>module</find>
-      <find>autoload</find>
-      <find>main</find>
-      <find>javascript_v1</find>
-      <find>$infoload = Uploader::upload($_FILES['file']);</find>
-      <find>num_rows</find>
-      <find>data_seek</find>
-      <find>allNews</find>
-      <find>post</find>
-      <find>get</find>
-      <find>json</find>
-      <find>$j</find>
-      <find>-&gt;num_rows</find>
-      <find>xde</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/modules/admin/news/ajax_news.php" />
-        <option value="$PROJECT_DIR$/modules/admin/allpages.php" />
-        <option value="$PROJECT_DIR$/skins/admin/index.tpl" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/skins/admin/css/style.css" />
-        <option value="$PROJECT_DIR$/libs/calc.php" />
-        <option value="$PROJECT_DIR$/libs/class_Paginator.php" />
-        <option value="$PROJECT_DIR$/main.sql" />
-        <option value="$PROJECT_DIR$/modules/admin/goods/add.php" />
-        <option value="$PROJECT_DIR$/modules/admin/news/add.php" />
-        <option value="$PROJECT_DIR$/modules/admin/users/edit.php" />
-        <option value="$PROJECT_DIR$/skins/admin/users/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/admin/users/edit.tpl" />
-        <option value="$PROJECT_DIR$/skins/admin/goods/edit.tpl" />
-        <option value="$PROJECT_DIR$/modules/admin/goods/edit.php" />
-        <option value="$PROJECT_DIR$/skins/admin/goods/add.tpl" />
-        <option value="$PROJECT_DIR$/modules/admin/news/edit.php" />
-        <option value="$PROJECT_DIR$/skins/admin/news/edit.tpl" />
-        <option value="$PROJECT_DIR$/skins/admin/news/add.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/css/style.css" />
-        <option value="$PROJECT_DIR$/skins/default/calc/main.tpl" />
-        <option value="$PROJECT_DIR$/libs/class_Calc.php" />
-        <option value="$PROJECT_DIR$/modules/news/more.php" />
-        <option value="$PROJECT_DIR$/skins/default/news/more.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/goods/more.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/cab/registration.tpl" />
-        <option value="$PROJECT_DIR$/modules/cab/registration.php" />
-        <option value="$PROJECT_DIR$/libs/class_Uploader.php" />
-        <option value="$PROJECT_DIR$/modules/admin/goods/main.php" />
-        <option value="$PROJECT_DIR$/skins/admin/news/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/admin/goods/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/goods/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/news/main.tpl" />
-        <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/modules/calc/main.php" />
-        <option value="$PROJECT_DIR$/modules/lessons/main.php" />
-        <option value="$PROJECT_DIR$/skins/default/lessons/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/index.tpl" />
-        <option value="$PROJECT_DIR$/modules/comments/main.php" />
-        <option value="$PROJECT_DIR$/modules/comments/ajax_comments.php" />
-        <option value="$PROJECT_DIR$/skins/default/comments/main.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/js/javascript_v1.js" />
-        <option value="$PROJECT_DIR$/skins/default/comments/ajax_comments.tpl" />
-        <option value="$PROJECT_DIR$/skins/default/comments/ajax_latest_comments.tpl" />
-        <option value="$PROJECT_DIR$/modules/news/main.php" />
-        <option value="$PROJECT_DIR$/modules/admin/news/main.php" />
-        <option value="$PROJECT_DIR$/modules/goods/main.php" />
-        <option value="$PROJECT_DIR$/libs/default.php" />
-        <option value="$PROJECT_DIR$/modules/comments/ajax_latest_comments.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/.gitignor" />
-      </list>
-    </option>
   </component>
   <component name="JsBowerSettings">
     <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
@@ -191,22 +212,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpServers">
-    <servers>
-      <server host="localhost" id="c6d16a7b-3d88-486e-a165-61fb957ecd24" name="localhost" use_path_mappings="true">
-        <path_mappings>
-          <mapping local-root="$PROJECT_DIR$" remote-root="/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin" />
-        </path_mappings>
-      </server>
-      <server host="teashop" id="c7e22c9b-ebcc-475b-91f3-69691e174853" name="teashop" />
-    </servers>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP PHP 7.2.8" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MAMP PHP 7.1.2" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="88" />
-    <option name="width" value="1164" />
-    <option name="height" value="698" />
+    <option name="x" value="151" />
+    <option name="y" value="81" />
+    <option name="width" value="1289" />
+    <option name="height" value="755" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,23 +260,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TeaShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeaShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="TeaShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeaShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploaded" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -273,29 +269,12 @@
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="last_opened_file_path" value="D:/OpenServer2016/OpenServer/modules/php/PHP-7-x64/php.exe" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/modules/goods" />
-      <recent name="$PROJECT_DIR$/skins/default/comments" />
-      <recent name="$PROJECT_DIR$/modules/comments" />
-      <recent name="$PROJECT_DIR$/modules/lessons" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/skins/default/js" />
-      <recent name="$PROJECT_DIR$/libs" />
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/css" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -317,614 +296,55 @@
     <option name="myConnectionType" value="NONE" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02ed5d18-6983-46b9-88da-5cee83104325" name="Default" comment="" />
-      <created>1522921376295</created>
+      <changelist id="bea1c87a-b727-46ee-bd5a-5b2344004d60" name="Default" comment="" />
+      <created>1558708716973</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1522921376295</updated>
-      <workItem from="1522921379411" duration="3682000" />
-      <workItem from="1522926874294" duration="21067000" />
-      <workItem from="1523049843163" duration="2193000" />
-      <workItem from="1523088034186" duration="2403000" />
-      <workItem from="1523127644733" duration="821000" />
-      <workItem from="1523131849437" duration="464000" />
-      <workItem from="1523304217297" duration="7963000" />
-      <workItem from="1523512244250" duration="7594000" />
-      <workItem from="1523526953953" duration="205000" />
-      <workItem from="1523527239316" duration="127000" />
-      <workItem from="1523527908838" duration="186000" />
-      <workItem from="1523528293346" duration="94000" />
-      <workItem from="1523533123765" duration="13000" />
-      <workItem from="1523533332788" duration="23000" />
-      <workItem from="1523533635386" duration="52000" />
-      <workItem from="1523533748775" duration="196000" />
-      <workItem from="1523534380425" duration="80000" />
-      <workItem from="1523534609615" duration="984000" />
-      <workItem from="1523536648333" duration="8753000" />
-      <workItem from="1523566535658" duration="399000" />
-      <workItem from="1523800327428" duration="4362000" />
-      <workItem from="1524083473675" duration="8000" />
-      <workItem from="1524084271144" duration="23184000" />
-      <workItem from="1525947084403" duration="3628000" />
-      <workItem from="1526586723461" duration="1344000" />
-      <workItem from="1526993631562" duration="26000000" />
-      <workItem from="1527186105022" duration="2692000" />
-      <workItem from="1527830590654" duration="9913000" />
-      <workItem from="1527848921471" duration="326000" />
-      <workItem from="1528211448093" duration="239000" />
-      <workItem from="1529351252718" duration="2715000" />
-      <workItem from="1530091772566" duration="3403000" />
-      <workItem from="1530106496414" duration="8309000" />
-      <workItem from="1530131770954" duration="355000" />
-      <workItem from="1530546281638" duration="5234000" />
-      <workItem from="1531737525548" duration="439000" />
-      <workItem from="1531738039482" duration="52000" />
-      <workItem from="1531738096963" duration="708000" />
-      <workItem from="1531738982886" duration="109000" />
-      <workItem from="1531739143419" duration="6096000" />
-      <workItem from="1531765145648" duration="11482000" />
-      <workItem from="1531914648478" duration="1555000" />
-      <workItem from="1531936593752" duration="11112000" />
-      <workItem from="1532032167000" duration="160000" />
-      <workItem from="1532032427615" duration="2308000" />
-      <workItem from="1532374367242" duration="3962000" />
-      <workItem from="1532429982140" duration="10394000" />
-      <workItem from="1532608684292" duration="245000" />
-      <workItem from="1533031902047" duration="5528000" />
-      <workItem from="1533037888662" duration="363000" />
-      <workItem from="1533038749970" duration="2853000" />
-      <workItem from="1534523325973" duration="120000" />
-      <workItem from="1534523452915" duration="1239000" />
-      <workItem from="1536081144656" duration="2561000" />
-      <workItem from="1536086551096" duration="2448000" />
-      <workItem from="1536517982308" duration="18186000" />
-      <workItem from="1536692686922" duration="7317000" />
-      <workItem from="1536758426515" duration="125000" />
-      <workItem from="1537098816927" duration="578000" />
-      <workItem from="1537292392202" duration="972000" />
-      <workItem from="1537293649287" duration="458000" />
-      <workItem from="1537780816584" duration="12880000" />
-      <workItem from="1538144191951" duration="27387000" />
-      <workItem from="1538381246062" duration="4121000" />
-      <workItem from="1538475357627" duration="695000" />
-      <workItem from="1538591929924" duration="1892000" />
-      <workItem from="1538844451657" duration="4969000" />
-      <workItem from="1539027134075" duration="1782000" />
-      <workItem from="1539102570374" duration="17496000" />
-      <workItem from="1539364140114" duration="16958000" />
-      <workItem from="1540146852636" duration="8529000" />
-      <workItem from="1540321931592" duration="38881000" />
-      <workItem from="1540723674942" duration="188000" />
-      <workItem from="1540798054437" duration="24138000" />
-      <workItem from="1540893029198" duration="9386000" />
-      <workItem from="1541151275604" duration="3978000" />
-      <workItem from="1541266582833" duration="23330000" />
-      <workItem from="1541490536567" duration="18171000" />
-      <workItem from="1541586833048" duration="21761000" />
-      <workItem from="1541690800326" duration="67093000" />
-      <workItem from="1542226680765" duration="384000" />
-      <workItem from="1542260298278" duration="1457000" />
-      <workItem from="1542465549211" duration="286000" />
-      <workItem from="1542556658518" duration="836000" />
-      <workItem from="1542558353881" duration="19000" />
-      <workItem from="1542558503922" duration="24000" />
-      <workItem from="1542558786221" duration="998000" />
-      <workItem from="1542560082848" duration="676000" />
-      <workItem from="1542562134561" duration="1202000" />
-      <workItem from="1542613188310" duration="1392000" />
-      <workItem from="1542614907225" duration="383000" />
-      <workItem from="1542615675532" duration="5329000" />
-      <workItem from="1542632794230" duration="3498000" />
-      <workItem from="1542701602400" duration="1484000" />
-      <workItem from="1542708154435" duration="435000" />
-      <workItem from="1542714937783" duration="14261000" />
-      <workItem from="1542963168699" duration="317000" />
-      <workItem from="1542963544195" duration="247000" />
-      <workItem from="1542964477285" duration="1669000" />
-      <workItem from="1542967139400" duration="9817000" />
-      <workItem from="1543083989926" duration="658000" />
-      <workItem from="1543087620263" duration="3884000" />
-      <workItem from="1543221266780" duration="1052000" />
-      <workItem from="1543391990118" duration="12489000" />
-      <workItem from="1543470485620" duration="430000" />
-      <workItem from="1543473923687" duration="491000" />
-      <workItem from="1543474993648" duration="93000" />
-      <workItem from="1543480165131" duration="29000" />
-      <workItem from="1543482944536" duration="6083000" />
-      <workItem from="1543580655109" duration="8005000" />
-      <workItem from="1543651351498" duration="1248000" />
-      <workItem from="1544294982646" duration="458000" />
-      <workItem from="1544295465853" duration="1161000" />
-      <workItem from="1544432814749" duration="55000" />
-      <workItem from="1544642521973" duration="18579000" />
-      <workItem from="1544808905495" duration="2209000" />
-      <workItem from="1544857397150" duration="95000" />
-      <workItem from="1544857495753" duration="58000" />
-      <workItem from="1545325292735" duration="502000" />
-      <workItem from="1545402383075" duration="2535000" />
-      <workItem from="1546247659458" duration="523000" />
-      <workItem from="1546519814691" duration="5060000" />
-      <workItem from="1546545565440" duration="7767000" />
-      <workItem from="1547024447827" duration="3482000" />
-      <workItem from="1547125393679" duration="747000" />
-      <workItem from="1547821198200" duration="2970000" />
-      <workItem from="1548227429556" duration="1013000" />
-      <workItem from="1548833592033" duration="264000" />
-      <workItem from="1549105271234" duration="560000" />
-      <workItem from="1549119857847" duration="29451000" />
-      <workItem from="1549442533290" duration="1739000" />
-      <workItem from="1549542116511" duration="4285000" />
-      <workItem from="1549631669689" duration="10748000" />
-      <workItem from="1550043444087" duration="10672000" />
-      <workItem from="1550080519106" duration="6669000" />
-      <workItem from="1550386441887" duration="36316000" />
-      <workItem from="1551160248305" duration="558000" />
-      <workItem from="1551179803047" duration="1918000" />
-      <workItem from="1551183540323" duration="1169000" />
+      <updated>1558708716973</updated>
+      <workItem from="1558708718741" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="774755000" />
+    <option name="totallyTimeSpent" value="36000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="88" width="1164" height="698" extended-state="0" />
-    <editor active="true" />
+    <frame x="151" y="81" width="1289" height="755" extended-state="0" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21568628" sideWeight="0.4864865" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.50293255" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2137931" sideWeight="0.49706745" order="7" side_tool="false" content_ui="tabs" x="47" y="206" width="1364" height="449" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2170088" sideWeight="0.5135135" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21617752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="60" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uploaded/20181213-235232img31867.jpg" />
-    <entry file="file://$PROJECT_DIR$/uploaded/users_45x45/20181213-235232img31867.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uploaded/users_45x45/20181213-234750img43943.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/class_Uploader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/admin/news/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/admin/goods/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="25" column="78" lean-forward="false" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/js/jquery-3.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6744">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cab/activate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cab/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cab/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/goods/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-681">
-          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/admin/goods/edit.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="59" lean-forward="false" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/class_Paginator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/goods/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/allpages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/staticpage/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/news/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="809" column="23" lean-forward="true" selection-start-line="809" selection-start-column="23" selection-end-line="809" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/goods/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0177429c-1606-4ffe-873c-26fb2a8a4b22/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/60e55955/0177429c-1606-4ffe-873c-26fb2a8a4b22/main.comments">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/class_Calc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/calc/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/lessons/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/lessons/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../yii-advanced-shop.loc/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/MAMP/bin/php/php7.2.8/conf/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="1901" column="4" lean-forward="false" selection-start-line="1901" selection-start-column="1" selection-end-line="1901" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/index.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="50" column="71" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/comments/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/comments/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/js/javascript_v1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/news/ajax_news.tpl" />
-    <entry file="file://$PROJECT_DIR$/modules/comments/ajax_comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/comments/ajax_comments.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/goods/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skins/default/comments/ajax_latest_comments.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-          <folding>
-            <marker date="1542613742000" expanded="true" signature="527:605" ph="SELECT * FRO... pages" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/news/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/news/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="80" column="8" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="81" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="104" column="12" lean-forward="false" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/news/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-          <folding>
-            <marker date="1544649235000" expanded="true" signature="20:85" ph="SELECT * FRO... news" />
-            <marker date="1544649235000" expanded="true" signature="268:308" ph="SELECT * FRO... news_cat" />
-            <marker date="1544649235000" expanded="true" signature="1174:1452" ph="UPDATE `news`... " />
-            <marker date="1544649235000" expanded="true" signature="1521:1600" ph="UPDATE `news`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_commit.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tessst.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/comments/ajax_latest_comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <marker date="1551180456000" expanded="true" signature="70:142" ph="SELECT * FRO... comments" />
-            <marker date="1551180456000" expanded="true" signature="412:445" ph="SELECT * FRO... users" />
-            <marker date="1551180456000" expanded="true" signature="420:426" ph="SELECT * FRO... Customers" />
-            <marker date="1551180456000" expanded="true" signature="420:443" ph="DELETE FROM `Customers`... " />
-            <marker date="1551180456000" expanded="true" signature="659:712" ph="INSERT INTO product... " />
-            <marker date="1551180456000" expanded="true" signature="1251:1281" ph="SELECT email... users" />
-            <marker date="1551180456000" expanded="true" signature="1515:1812" ph="..." />
-            <marker date="1551180456000" expanded="true" signature="1605:1640" ph="SELECT COUNT... news" />
-            <marker date="1551180456000" expanded="true" signature="1730:1772" ph="SELECT * FRO... users" />
-            <marker date="1551180456000" expanded="true" signature="2000:2041" ph="SELECT COUNT... goods" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
